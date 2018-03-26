@@ -1,4 +1,10 @@
 # SCM-G4
 software configuration for group 4
-siang
-tghhri
+petang
+subuh warrior
+IKHWAN
+SYAMIL
+HASAN
+FATEEN
+BAT
+SYAZWAN
